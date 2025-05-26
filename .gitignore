@@ -1,0 +1,16 @@
+/.DS_Store
+/.vscode
+/Gun
+/RawData
+/V
+/cache
+/hand_gest.py
+/hand_gesture_server.py
+/hand_landmarker.ipynb
+/handterm.py
+/session1.csv
+/test
+/vis
+/손 모양.pdf
+/이전 7가지동작에 대한 데이터
+/정적
